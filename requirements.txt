@@ -1,3 +1,5 @@
 streamlit
 transformers
 pipeline
+tensorflow==2.0
+pytorch
