@@ -2,4 +2,4 @@ streamlit
 transformers
 pipeline
 tensorflow
-protobuf==4.21.0
+protobuf==3.20.3
