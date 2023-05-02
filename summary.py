@@ -42,7 +42,7 @@ def main():
 
 if __name__ == '__main__':
     main()
-    st.write('**prepared by Er Ashish KC Khatri**')
+    st.write('**developed by Er Ashish KC Khatri**')
     st.text('Website: www.ashishkhatri.com.np')
     st.text('Contact: +977-9846262393')
     
